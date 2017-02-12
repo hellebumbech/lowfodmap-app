@@ -1,0 +1,9 @@
+<div id="main-content" class="container">
+  Hvad kan du ikke tåle?
+  <form>
+    <kulhydrattype ng-repeat="kulhydrattype in ctrl.kulhydrattyper"
+                    kulhydrattype="kulhydrattype">
+    </kulhydrattype>
+    <input ng-click="ctrl.submit(ctrl.kulhydrattyper)" type="submit" class="btn btn-primary" ui-sref="home" value="Næste"/>
+  </form>
+</div>

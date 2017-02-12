@@ -1,0 +1,11 @@
+<div class="clearfix"></div>
+
+  <div ng-repeat="foedevare in $ctrl.soegeresultat">
+    <a ui-sref="soegning.visning({foedevare: foedevare.navn})">
+      {{ foedevare.type | capitalize }}: {{ foedevare.navn | capitalize }}
+    </a>
+  </div>
+  <div ng-if="$ctrl.soegeresultat.length == 0">
+      Fandt ingenting!
+  </div>
+</div>

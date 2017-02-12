@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LowFodmapApp</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+  </head>
+  <body ng-app="lowfodmap" ng-strict-di>
+
+    <!-- Fixed position loading indicator -->
+    <loading class="loading-indicator"></loading>
+
+    <header>
+      <nav id="header-nav" class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <div class="navbar-brand">
+              <a ui-sref="home"<h1>Home</h1></a>
+            </div>
+          </div>
+          </div>
+        </nav>
+    </header>
+
+    <ui-view>
+    </ui-view>
+
+    <footer class="panel-footer">
+      <div class="container">
+        <div class="row">
+          Made by hellebumbech
+        </div>
+      </div>
+    </footer>
+
+    <!-- Libs -->
+    <script src="lib/jquery-2.1.4.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+    <script src="lib/angular.min.js"></script>
+    <script src="lib/angular-ui-router.min.js"></script>
+
+    <script src="src/lowfodmap.module.js"></script>
+
+    <!-- loading -->
+    <script src="src/loading/loading.component.js"></script>
+    <script src="src/loading/loading.interceptor.js"></script>
+
+    <!-- Common -->
+    <script src="src/routes.js"></script>
+    <script src="src/filters.js"></script>
+    <script src="src/data.service.js"></script>
+
+    <!-- user-profile -->
+    <script src="src/user-profile/user-profile.controller.js"></script>
+    <script src="src/user-profile/kulhydrattype.component.js"></script>
+
+    <script src="src/intolerance.controller.js"></script>
+
+    <script src="src/soegning/soegning.controller.js"></script>
+    <script src="src/soegning/soegning.service.js"></script>
+    <script src="src/soegning/soegeresultat.component.js"></script>
+
+    <script src="src/visning/visning.controller.js"></script>
+    <script src="src/visning/visning.service.js"></script>
+    <script src="src/visning/visning.component.js"></script>
+
+  </body>
+</html>
