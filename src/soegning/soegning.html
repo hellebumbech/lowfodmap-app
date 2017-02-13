@@ -1,11 +1,14 @@
 <div id="main-content" class="container">
-Her kan du søge
+Her kan du søge/filtrere
 
 <form>
   <input type="text" ng-model="ctrl.soegetekst" placeholder="Fødevare">
-  <input type="submit" class="btn btn-primary" value="Søg" ng-click="ctrl.soeg()">
 </form>
 
-<soegeresultat soegeresultat="ctrl.soegeresultat"></soegeresultat>
+<div ng-repeat="foedevare in ctrl.foedevareListe | filter:ctrl.soegetekst">
+  <a ui-sref="visning({foedevareId: foedevare.id})">
+      {{ foedevare.kategori | capitalize }}: {{ foedevare.navn | capitalize }}
+    </a>
+</div>
 
 </div>

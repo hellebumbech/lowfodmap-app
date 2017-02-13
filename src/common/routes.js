@@ -28,7 +28,12 @@ function routeConfig($stateProvider) {
       url:'/soeg',
       templateUrl: 'src/soegning/soegning.html',
       controller: 'SoegningController',
-      controllerAs: 'ctrl'
+      controllerAs: 'ctrl',
+      resolve: {
+        foedevareListe: ['DataService', function(DataService) {
+          return DataService.getFoedevareData();
+        }]
+      }
     })
     .state('visning', {
       url:'/{foedevareId}',
