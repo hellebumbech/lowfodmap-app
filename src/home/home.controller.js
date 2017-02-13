@@ -8,7 +8,7 @@
   function HomeController(DataService) {
     var ctrl = this;
 
-    ctrl.intolerance = DataService.getIntolerance();
+    ctrl.intolerance = DataService.intoleranceData;
 
   }
 })();

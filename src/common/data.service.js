@@ -41,17 +41,5 @@
         }
       });
     }
-
-    service.getIntolerance = function() {
-      var result = [];
-      if(service.intoleranceData != undefined) {
-        for(var i=0; i < service.intoleranceData.length; i++) {
-          if(service.intoleranceData[i].intolerance === true) {
-            result.push(service.intoleranceData[i].sukkerstof);
-          }
-        }
-      }
-      return result;
-    }
   }
 })();
