@@ -3,7 +3,7 @@
 
 angular.module('lowfodmap')
 .component('kulhydrattype', {
-  templateUrl: 'src/user-profile/kulhydrattype.html',
+  templateUrl: 'src/intolerance/kulhydrattype.html',
   bindings: {
     kulhydrattype: '<'
   }

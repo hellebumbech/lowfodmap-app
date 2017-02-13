@@ -16,7 +16,7 @@
           var foedevarer = response;
           for(var vare in foedevarer) {
             var navn = foedevarer[vare].navn;
-            if(navn.indexOf(soegetekst) != -1) {
+            if(navn.indexOf(soegetekst.toLowerCase()) != -1) {
               soegeresultat.push(foedevarer[vare]);
             }
         }

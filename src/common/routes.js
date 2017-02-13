@@ -9,13 +9,13 @@ function routeConfig($stateProvider) {
   $stateProvider
     .state('home', {
       url:'/',
-      templateUrl: 'src/home.html',
-      controller: 'UserProfileController',
+      templateUrl: 'src/home/home.html',
+      controller: 'HomeController',
       controllerAs: 'ctrl'
     })
-    .state('userprofile', {
+    .state('intolerance-valg', {
       url: '/registrer',
-      templateUrl: 'src/user-profile/user-profile.html',
+      templateUrl: 'src/intolerance/intolerance-valg.html',
       controller: 'IntoleranceController',
       controllerAs: 'ctrl',
       resolve: {
@@ -30,14 +30,14 @@ function routeConfig($stateProvider) {
       controller: 'SoegningController',
       controllerAs: 'ctrl'
     })
-    .state('soegning.visning', {
-      url:'/{foedevare}',
+    .state('visning', {
+      url:'/{foedevareId}',
       templateUrl: 'src/visning/visning.html',
       controller: 'VisningController',
       controllerAs: 'ctrl',
       resolve: {
-        foedevare: ['$stateParams', function($stateParams) {
-          return $stateParams.foedevare;
+        foedevareData: ['$stateParams', 'DataService', function($stateParams, DataService) {
+          return DataService.getFoedevareItem($stateParams.foedevareId);
         }]
       }
     });
