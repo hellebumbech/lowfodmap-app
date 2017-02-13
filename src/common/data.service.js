@@ -8,7 +8,7 @@
   function DataService($http, ApiPath) {
     var service = this;
 
-    service.intoleranceData = [];
+    service.intoleranceData = ['fruktaner'];
 
     service.getKulhydrattyper = function() {
       return $http.get(ApiPath + 'src/data/kulhydrattyper.json').then(function(response){

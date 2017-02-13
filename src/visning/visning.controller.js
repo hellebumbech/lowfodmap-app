@@ -9,6 +9,6 @@
     var ctrl = this;
     ctrl.foedevare = foedevareData.navn;
     ctrl.kulhydraterIFoedevare = VisningService.getKulhydraterIFoedevare(foedevareData);
-    //ctrl.taalerFoedevare = VisningService.getIntoleranceNiveau(foedevareData);
+    ctrl.taalerFoedevare = VisningService.getIntoleranceNiveau(foedevareData);
   }
 })();
