@@ -18,7 +18,12 @@
     };
 
     service.gemIntoleranceData = function(kulhydrattyper) {
-      service.intoleranceData = kulhydrattyper;
+      service.intoleranceData = [];
+      for(var item in kulhydrattyper) {
+        if(kulhydrattyper[item].intolerance == true) {
+          service.intoleranceData.push(kulhydrattyper[item].sukkerstof);
+        }
+      }
     };
 
     service.getFoedevareData = function() {
