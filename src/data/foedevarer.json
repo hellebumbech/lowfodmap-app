@@ -1,4 +1,5 @@
-[{
+{
+	"foedevarer":[{
 	"kategori": "Frugter",
 	"id": 1,
 	"navn": "Abrikos, frisk",
@@ -4943,3 +4944,4 @@
 	"mannitol": null,
 	"sorbitol": null
 }]
+}
