@@ -1,21 +1,21 @@
 {
 	"kulhydrattyper": [{
-		"navn": "monosakkarid",
-		"sukkerstof": "fruktose"
+		"navn": "Monosakkarid",
+		"sukkerstof": "Fruktose"
 	}, {
-		"navn": "disakkarid",
-		"sukkerstof": "laktose"
+		"navn": "Disakkarid",
+		"sukkerstof": "Laktose"
 	}, {
-		"navn": "oligosakkarider",
-		"sukkerstof": "fruktaner"
+		"navn": "Oligosakkarider",
+		"sukkerstof": "Fruktaner"
 	}, {
-		"navn": "oligosakkarider",
-		"sukkerstof": "galaktaner"
+		"navn": "Oligosakkarider",
+		"sukkerstof": "Galaktaner"
 	}, {
-		"navn": "polyoler",
-		"sukkerstof": "mannitol"
+		"navn": "Polyoler",
+		"sukkerstof": "Mannitol"
 	}, {
-		"navn": "polyoler",
-		"sukkerstof": "sorbitol"
+		"navn": "Polyoler",
+		"sukkerstof": "Sorbitol"
 	}]
 }

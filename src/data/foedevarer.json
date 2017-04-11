@@ -1,8 +1,7 @@
-{
-	"foedevarer": [{
-	"kategori": "frugter",
+[{
+	"kategori": "Frugter",
 	"id": 1,
-	"navn": "abrikos, frisk",
+	"navn": "Abrikos, frisk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -12,9 +11,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 2,
-	"navn": "ackee, dåse (i saltvand)",
+	"navn": "Ackee, dåse (i saltvand)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -24,9 +23,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 3,
-	"navn": "ananas",
+	"navn": "Ananas",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -36,9 +35,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 4,
-	"navn": "appelsin",
+	"navn": "Appelsin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -48,9 +47,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 5,
-	"navn": "avocado",
+	"navn": "Avocado",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -60,9 +59,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 6,
-	"navn": "banan",
+	"navn": "Banan",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -72,9 +71,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 7,
-	"navn": "blomme",
+	"navn": "Blomme",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -84,9 +83,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 8,
-	"navn": "blåbær",
+	"navn": "Blåbær",
 	"begraensningtekst": "(maks 60 g pr portion)",
 	"begraensning": 60,
 	"fruktose": null,
@@ -96,9 +95,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 9,
-	"navn": "boysenbær",
+	"navn": "Boysenbær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -108,9 +107,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 10,
-	"navn": "brombær",
+	"navn": "Brombær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -120,9 +119,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 11,
-	"navn": "brødfrugt",
+	"navn": "Brødfrugt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -132,9 +131,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 12,
-	"navn": "cantaloupemelon",
+	"navn": "Cantaloupemelon",
 	"begraensningtekst": "(maks 160 g pr portion)",
 	"begraensning": 160,
 	"fruktose": null,
@@ -144,9 +143,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 13,
-	"navn": "carambole (stjernefrugt)",
+	"navn": "Carambole (stjernefrugt)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -156,9 +155,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 14,
-	"navn": "citron",
+	"navn": "Citron",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -168,9 +167,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 15,
-	"navn": "citronsaft",
+	"navn": "Citronsaft",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -180,9 +179,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 16,
-	"navn": "dragefrugt",
+	"navn": "Dragefrugt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -192,9 +191,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 17,
-	"navn": "durian",
+	"navn": "Durian",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -204,9 +203,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 18,
-	"navn": "fersken",
+	"navn": "Fersken",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -216,9 +215,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 19,
-	"navn": "fersken, hvid",
+	"navn": "Fersken, hvid",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -228,9 +227,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 20,
-	"navn": "figen, frisk",
+	"navn": "Figen, frisk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -240,9 +239,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 21,
-	"navn": "granatæble",
+	"navn": "Granatæble",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -252,9 +251,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 22,
-	"navn": "grapefrugt",
+	"navn": "Grapefrugt",
 	"begraensningtekst": "(maks 105 g pr portion)",
 	"begraensning": 105,
 	"fruktose": null,
@@ -264,9 +263,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 23,
-	"navn": "guava, moden",
+	"navn": "Guava, moden",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -276,9 +275,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 24,
-	"navn": "hindbær",
+	"navn": "Hindbær",
 	"begraensningtekst": "(maks 90 g pr portion)",
 	"begraensning": 90,
 	"fruktose": null,
@@ -288,9 +287,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 25,
-	"navn": "honningmelon",
+	"navn": "Honningmelon",
 	"begraensningtekst": "(maks 135 g pr portion)",
 	"begraensning": 135,
 	"fruktose": null,
@@ -300,9 +299,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 26,
-	"navn": "jordbær",
+	"navn": "Jordbær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -312,9 +311,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 27,
-	"navn": "kaki",
+	"navn": "Kaki",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -324,9 +323,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 28,
-	"navn": "kaktusfrugt",
+	"navn": "Kaktusfrugt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -336,9 +335,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 29,
-	"navn": "kirsebær",
+	"navn": "Kirsebær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -348,9 +347,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 30,
-	"navn": "kiwi",
+	"navn": "Kiwi",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -360,9 +359,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 31,
-	"navn": "klementin",
+	"navn": "Klementin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -372,9 +371,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 32,
-	"navn": "kumquat, med skræl",
+	"navn": "Kumquat, med skræl",
 	"begraensningtekst": "(maks 250 g pr portion)",
 	"begraensning": 250,
 	"fruktose": null,
@@ -384,9 +383,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 33,
-	"navn": "kumquat, uden skræl",
+	"navn": "Kumquat, uden skræl",
 	"begraensningtekst": "(maks 150 g pr portion)",
 	"begraensning": 150,
 	"fruktose": null,
@@ -396,9 +395,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 34,
-	"navn": "lime",
+	"navn": "Lime",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -408,9 +407,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 35,
-	"navn": "longan frugt",
+	"navn": "Longan frugt",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -420,9 +419,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 36,
-	"navn": "lycheefrugt",
+	"navn": "Lycheefrugt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -432,9 +431,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 37,
-	"navn": "mandarin",
+	"navn": "Mandarin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -444,9 +443,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 38,
-	"navn": "mango",
+	"navn": "Mango",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -456,9 +455,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 39,
-	"navn": "nektarin",
+	"navn": "Nektarin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -468,9 +467,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 40,
-	"navn": "papaja",
+	"navn": "Papaja",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -480,9 +479,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 41,
-	"navn": "passionsfrugt",
+	"navn": "Passionsfrugt",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -492,9 +491,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 42,
-	"navn": "plaintain (madbanan)",
+	"navn": "Plaintain (madbanan)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -504,9 +503,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 43,
-	"navn": "pære, alle sorter",
+	"navn": "Pære, alle sorter",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -516,9 +515,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 44,
-	"navn": "rabarber",
+	"navn": "Rabarber",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -528,9 +527,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 45,
-	"navn": "rambutan",
+	"navn": "Rambutan",
 	"begraensningtekst": "(maks 30 g pr portion)",
 	"begraensning": 30,
 	"fruktose": null,
@@ -540,9 +539,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 46,
-	"navn": "sharonfrugt",
+	"navn": "Sharonfrugt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -552,9 +551,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 47,
-	"navn": "solbær",
+	"navn": "Solbær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -564,9 +563,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 48,
-	"navn": "tamarillo (trætomat)",
+	"navn": "Tamarillo (trætomat)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -576,9 +575,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 49,
-	"navn": "vandmelon",
+	"navn": "Vandmelon",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -588,9 +587,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 50,
-	"navn": "vindrue, blå og grøn",
+	"navn": "Vindrue, blå og grøn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -600,9 +599,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "frugter",
+	"kategori": "Frugter",
 	"id": 51,
-	"navn": "æble, alle sorter",
+	"navn": "Æble, alle sorter",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -612,9 +611,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 52,
-	"navn": "amarant, puffede",
+	"navn": "Amarant, puffede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -624,9 +623,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 53,
-	"navn": "amarantmel",
+	"navn": "Amarantmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -636,9 +635,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 54,
-	"navn": "boghvedekerner",
+	"navn": "Boghvedekerner",
 	"begraensningtekst": "(maks 54 g pr portion)",
 	"begraensning": 54,
 	"fruktose": null,
@@ -648,9 +647,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 55,
-	"navn": "boghvedemel",
+	"navn": "Boghvedemel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -660,9 +659,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 56,
-	"navn": "branflakes",
+	"navn": "Branflakes",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -672,9 +671,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 57,
-	"navn": "bulgur, kogte",
+	"navn": "Bulgur, kogte",
 	"begraensningtekst": "(maks 44 g pr portion)",
 	"begraensning": null,
 	"fruktose": null,
@@ -684,9 +683,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 58,
-	"navn": "bygflager",
+	"navn": "Bygflager",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -696,9 +695,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 59,
-	"navn": "bygmel",
+	"navn": "Bygmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -708,9 +707,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 60,
-	"navn": "bønnemel",
+	"navn": "Bønnemel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -720,9 +719,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 61,
-	"navn": "cornflakes",
+	"navn": "Cornflakes",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -732,9 +731,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 62,
-	"navn": "cornflakes, glutenfri",
+	"navn": "Cornflakes, glutenfri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -744,9 +743,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 63,
-	"navn": "couscous",
+	"navn": "Couscous",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -756,9 +755,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 64,
-	"navn": "durumhvede/durumhvedemel",
+	"navn": "Durumhvede/durumhvedemel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -768,9 +767,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 65,
-	"navn": "emmer",
+	"navn": "Emmer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -780,9 +779,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 66,
-	"navn": "enkorn",
+	"navn": "Enkorn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -792,9 +791,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 67,
-	"navn": "freekeh (knækket grøn hvede)",
+	"navn": "Freekeh (knækket grøn hvede)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -804,9 +803,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 68,
-	"navn": "havre, fra aurion, fine",
+	"navn": "Havre, fra aurion, fine",
 	"begraensningtekst": "(maks 52 g pr portion)",
 	"begraensning": 52,
 	"fruktose": null,
@@ -816,9 +815,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 69,
-	"navn": "havre, fra aurion, grove",
+	"navn": "Havre, fra aurion, grove",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -828,9 +827,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 70,
-	"navn": "havreflakes",
+	"navn": "Havreflakes",
 	"begraensningtekst": "(maks 30 g pr portion)",
 	"begraensning": 30,
 	"fruktose": null,
@@ -840,9 +839,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 71,
-	"navn": "havregryn",
+	"navn": "Havregryn",
 	"begraensningtekst": "(maks 25 g pr portion)",
 	"begraensning": 25,
 	"fruktose": null,
@@ -852,9 +851,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 72,
-	"navn": "havregryn, glutenfri fra aurion, fine",
+	"navn": "Havregryn, glutenfri fra aurion, fine",
 	"begraensningtekst": "(maks 105 g pr portion)",
 	"begraensning": 105,
 	"fruktose": null,
@@ -864,9 +863,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 73,
-	"navn": "havregryn, glutenfri fra aurion, grove",
+	"navn": "Havregryn, glutenfri fra aurion, grove",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -876,9 +875,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 74,
-	"navn": "havreklid",
+	"navn": "Havreklid",
 	"begraensningtekst": "(maks 25 g pr portion)",
 	"begraensning": 25,
 	"fruktose": null,
@@ -888,9 +887,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 75,
-	"navn": "hirse",
+	"navn": "Hirse",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -900,9 +899,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 76,
-	"navn": "hirsemel",
+	"navn": "Hirsemel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -912,9 +911,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 77,
-	"navn": "hvedebrød",
+	"navn": "Hvedebrød",
 	"begraensningtekst": "(maks 24 g pr portion)",
 	"begraensning": 24,
 	"fruktose": null,
@@ -924,9 +923,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 78,
-	"navn": "hvedeklid",
+	"navn": "Hvedeklid",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -936,9 +935,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 79,
-	"navn": "hvedestivelse (stivelse indeholder ikke fruktaner)",
+	"navn": "Hvedestivelse (stivelse indeholder ikke fruktaner)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -948,9 +947,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 80,
-	"navn": "johannesbrødkernemel, carob",
+	"navn": "Johannesbrødkernemel, carob",
 	"begraensningtekst": "(maks 6 g pr portion)",
 	"begraensning": 6,
 	"fruktose": null,
@@ -960,9 +959,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 81,
-	"navn": "kamutmel",
+	"navn": "Kamutmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -972,9 +971,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 82,
-	"navn": "kartoffelmel",
+	"navn": "Kartoffelmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -984,9 +983,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 83,
-	"navn": "kikærtemel",
+	"navn": "Kikærtemel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -996,9 +995,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 84,
-	"navn": "knækbrød, kager m.m. hvor hvedemel indgår",
+	"navn": "Knækbrød, kager m.m. hvor hvedemel indgår",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1008,9 +1007,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 85,
-	"navn": "knækbrød, rug",
+	"navn": "Knækbrød, rug",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1020,9 +1019,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 86,
-	"navn": "lupinmel",
+	"navn": "Lupinmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1032,9 +1031,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 87,
-	"navn": "majsmel",
+	"navn": "Majsmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1044,9 +1043,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 88,
-	"navn": "majsstivelse (maizena)",
+	"navn": "Majsstivelse (maizena)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1056,9 +1055,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 89,
-	"navn": "maltodextrin",
+	"navn": "Maltodextrin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1068,9 +1067,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 90,
-	"navn": "mandelmel",
+	"navn": "Mandelmel",
 	"begraensningtekst": "(maks 24 g pr portion)",
 	"begraensning": 24,
 	"fruktose": null,
@@ -1080,9 +1079,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 91,
-	"navn": "naanbrød",
+	"navn": "Naanbrød",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1092,9 +1091,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 92,
-	"navn": "polenta, majsmel",
+	"navn": "Polenta, majsmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1104,9 +1103,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 93,
-	"navn": "pumpernickel",
+	"navn": "Pumpernickel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1116,9 +1115,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 94,
-	"navn": "quinoa",
+	"navn": "Quinoa",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1128,9 +1127,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 95,
-	"navn": "quinoaflakes",
+	"navn": "Quinoaflakes",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1140,9 +1139,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 96,
-	"navn": "quinoamel",
+	"navn": "Quinoamel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1152,9 +1151,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 97,
-	"navn": "ris, puffede",
+	"navn": "Ris, puffede",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -1164,9 +1163,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 98,
-	"navn": "risflager",
+	"navn": "Risflager",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1176,9 +1175,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 99,
-	"navn": "risklid",
+	"navn": "Risklid",
 	"begraensningtekst": "(maks 60 g pr portion)",
 	"begraensning": 60,
 	"fruktose": true,
@@ -1188,9 +1187,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 100,
-	"navn": "rismel",
+	"navn": "Rismel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1200,9 +1199,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 101,
-	"navn": "risnudler",
+	"navn": "Risnudler",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1212,9 +1211,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 102,
-	"navn": "rugbrød",
+	"navn": "Rugbrød",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1224,9 +1223,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 103,
-	"navn": "rugmel",
+	"navn": "Rugmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1236,9 +1235,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 104,
-	"navn": "sorghummel",
+	"navn": "Sorghummel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1248,9 +1247,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 105,
-	"navn": "speltbrød",
+	"navn": "Speltbrød",
 	"begraensningtekst": "(maks 24 g pr portion)",
 	"begraensning": 24,
 	"fruktose": null,
@@ -1260,9 +1259,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 106,
-	"navn": "speltbrød, bagt på surdej",
+	"navn": "Speltbrød, bagt på surdej",
 	"begraensningtekst": "(maks 52 g pr portion)",
 	"begraensning": 52,
 	"fruktose": null,
@@ -1272,9 +1271,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 107,
-	"navn": "speltflakes fra aurion",
+	"navn": "Speltflakes fra aurion",
 	"begraensningtekst": "(maks 18 g pr portion)",
 	"begraensning": 18,
 	"fruktose": null,
@@ -1284,9 +1283,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 108,
-	"navn": "speltmel",
+	"navn": "Speltmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1296,9 +1295,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 109,
-	"navn": "speltmel, fint sigtet, økologisk",
+	"navn": "Speltmel, fint sigtet, økologisk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1308,9 +1307,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 110,
-	"navn": "speltmel, fuldkorn",
+	"navn": "Speltmel, fuldkorn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1320,9 +1319,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 111,
-	"navn": "tapiokastivelse",
+	"navn": "Tapiokastivelse",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1332,9 +1331,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 112,
-	"navn": "teffmel",
+	"navn": "Teffmel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1344,9 +1343,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "gryn, mel og kornprodukter",
+	"kategori": "Gryn, mel og kornprodukter",
 	"id": 113,
-	"navn": "yammel",
+	"navn": "Yammel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1356,9 +1355,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 114,
-	"navn": "agurk",
+	"navn": "Agurk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1368,9 +1367,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 115,
-	"navn": "artiskok, frisk",
+	"navn": "Artiskok, frisk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1380,9 +1379,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 116,
-	"navn": "asparges",
+	"navn": "Asparges",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -1392,9 +1391,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 117,
-	"navn": "atiskokhjerte, dåse",
+	"navn": "Atiskokhjerte, dåse",
 	"begraensningtekst": "(maks 30 g pr portion)",
 	"begraensning": 30,
 	"fruktose": true,
@@ -1404,9 +1403,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 118,
-	"navn": "aubergine",
+	"navn": "Aubergine",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1416,9 +1415,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 119,
-	"navn": "bladbede",
+	"navn": "Bladbede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1428,9 +1427,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 120,
-	"navn": "bladselleri",
+	"navn": "Bladselleri",
 	"begraensningtekst": "(maks 12 g pr portion)",
 	"begraensning": 12,
 	"fruktose": null,
@@ -1440,9 +1439,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 121,
-	"navn": "blomkål",
+	"navn": "Blomkål",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1452,9 +1451,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 122,
-	"navn": "bok choy, bladkål",
+	"navn": "Bok choy, bladkål",
 	"begraensningtekst": "(maks 160 g pr portion)",
 	"begraensning": 160,
 	"fruktose": null,
@@ -1464,9 +1463,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 123,
-	"navn": "brocolli",
+	"navn": "Brocolli",
 	"begraensningtekst": "(maks 50 g pr portion)",
 	"begraensning": 50,
 	"fruktose": null,
@@ -1476,9 +1475,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 124,
-	"navn": "butternutsquash",
+	"navn": "Butternutsquash",
 	"begraensningtekst": "(maks 30 g pr portion)",
 	"begraensning": 30,
 	"fruktose": null,
@@ -1488,9 +1487,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 125,
-	"navn": "bønnespirer",
+	"navn": "Bønnespirer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1500,9 +1499,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 126,
-	"navn": "chikorie",
+	"navn": "Chikorie",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1512,9 +1511,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 127,
-	"navn": "chili",
+	"navn": "Chili",
 	"begraensningtekst": "(maks 30 g pr portion)",
 	"begraensning": 30,
 	"fruktose": null,
@@ -1524,9 +1523,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 128,
-	"navn": "cho-cho (choko)",
+	"navn": "Cho-cho (choko)",
 	"begraensningtekst": "(maks 84 g pr portion)",
 	"begraensning": 84,
 	"fruktose": null,
@@ -1536,9 +1535,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 129,
-	"navn": "choy sum",
+	"navn": "Choy sum",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1548,9 +1547,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 130,
-	"navn": "fenikkeltop",
+	"navn": "Fenikkeltop",
 	"begraensningtekst": "(maks 12 g pr portion)",
 	"begraensning": 12,
 	"fruktose": null,
@@ -1560,9 +1559,9 @@
 	"mannitol": true,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 131,
-	"navn": "fennikel",
+	"navn": "Fennikel",
 	"begraensningtekst": "(maks 50 g pr portion)",
 	"begraensning": 50,
 	"fruktose": null,
@@ -1572,9 +1571,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 132,
-	"navn": "forårsløg, hvid del",
+	"navn": "Forårsløg, hvid del",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1584,9 +1583,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 133,
-	"navn": "forårsløg, kun grøn del (top)",
+	"navn": "Forårsløg, kun grøn del (top)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1596,9 +1595,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 134,
-	"navn": "gai lan (kinesisk broccoli)",
+	"navn": "Gai lan (kinesisk broccoli)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1608,9 +1607,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 135,
-	"navn": "græskar, dåse",
+	"navn": "Græskar, dåse",
 	"begraensningtekst": "(maks 160 g pr portion)",
 	"begraensning": 160,
 	"fruktose": null,
@@ -1620,9 +1619,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 136,
-	"navn": "grønkål",
+	"navn": "Grønkål",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1632,9 +1631,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 137,
-	"navn": "grønne bønner",
+	"navn": "Grønne bønner",
 	"begraensningtekst": "(maks 120 g pr portion)",
 	"begraensning": 120,
 	"fruktose": null,
@@ -1644,9 +1643,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 138,
-	"navn": "gulerod",
+	"navn": "Gulerod",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1656,9 +1655,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 139,
-	"navn": "hokkaidogræskar",
+	"navn": "Hokkaidogræskar",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1668,9 +1667,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 140,
-	"navn": "hvidkål",
+	"navn": "Hvidkål",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -1680,9 +1679,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 141,
-	"navn": "hvidløg",
+	"navn": "Hvidløg",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1692,9 +1691,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 142,
-	"navn": "jordskok",
+	"navn": "Jordskok",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -1704,9 +1703,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 143,
-	"navn": "karela",
+	"navn": "Karela",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1716,9 +1715,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 144,
-	"navn": "kartoffel",
+	"navn": "Kartoffel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1728,9 +1727,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 145,
-	"navn": "kassava",
+	"navn": "Kassava",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -1740,9 +1739,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 146,
-	"navn": "knoldselleri",
+	"navn": "Knoldselleri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1752,9 +1751,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 147,
-	"navn": "lucernespirer",
+	"navn": "Lucernespirer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1764,9 +1763,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 148,
-	"navn": "løg, alle typer",
+	"navn": "Løg, alle typer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1776,9 +1775,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 149,
-	"navn": "majroe",
+	"navn": "Majroe",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -1788,9 +1787,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 150,
-	"navn": "majs",
+	"navn": "Majs",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -1800,9 +1799,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 151,
-	"navn": "marvkål",
+	"navn": "Marvkål",
 	"begraensningtekst": "(maks 180 g pr portion)",
 	"begraensning": 180,
 	"fruktose": true,
@@ -1812,9 +1811,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 152,
-	"navn": "okra",
+	"navn": "Okra",
 	"begraensningtekst": "(maks 60 g pr portion)",
 	"begraensning": 60,
 	"fruktose": null,
@@ -1824,9 +1823,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 153,
-	"navn": "oliven, sort og grøn",
+	"navn": "Oliven, sort og grøn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1836,9 +1835,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 154,
-	"navn": "pastinak",
+	"navn": "Pastinak",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1848,9 +1847,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 155,
-	"navn": "peberfrugt, grøn",
+	"navn": "Peberfrugt, grøn",
 	"begraensningtekst": "(maks 50 g pr portion)",
 	"begraensning": 50,
 	"fruktose": null,
@@ -1860,9 +1859,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 156,
-	"navn": "peberfrugt, rød og gul",
+	"navn": "Peberfrugt, rød og gul",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1872,9 +1871,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 157,
-	"navn": "porre, hvid del",
+	"navn": "Porre, hvid del",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1884,9 +1883,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 158,
-	"navn": "porretop, grøn del",
+	"navn": "Porretop, grøn del",
 	"begraensningtekst": "(maks 90 g pr portion)",
 	"begraensning": 90,
 	"fruktose": null,
@@ -1896,9 +1895,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 159,
-	"navn": "radise",
+	"navn": "Radise",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1908,9 +1907,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 160,
-	"navn": "rosenkål",
+	"navn": "Rosenkål",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -1920,9 +1919,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 161,
-	"navn": "rødbede, frisk",
+	"navn": "Rødbede, frisk",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -1932,9 +1931,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 162,
-	"navn": "rødkål",
+	"navn": "Rødkål",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1944,9 +1943,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 163,
-	"navn": "salat, grøn, julesalat, rucola og rød krølsalat",
+	"navn": "Salat, grøn, julesalat, rucola og rød krølsalat",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1956,9 +1955,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 164,
-	"navn": "salat, radicchio",
+	"navn": "Salat, radicchio",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -1968,9 +1967,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 165,
-	"navn": "savoykål",
+	"navn": "Savoykål",
 	"begraensningtekst": "(maks 35 g pr portion)",
 	"begraensning": 35,
 	"fruktose": null,
@@ -1980,9 +1979,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 166,
-	"navn": "slikært",
+	"navn": "Slikært",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -1992,9 +1991,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 167,
-	"navn": "spaghettisquash",
+	"navn": "Spaghettisquash",
 	"begraensningtekst": "(maks 426 g pr portion)",
 	"begraensning": 426,
 	"fruktose": null,
@@ -2004,9 +2003,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 168,
-	"navn": "spinat, frisk",
+	"navn": "Spinat, frisk",
 	"begraensningtekst": "(maks 150 g pr portion)",
 	"begraensning": 150,
 	"fruktose": null,
@@ -2016,9 +2015,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 169,
-	"navn": "squash (corgetter)",
+	"navn": "Squash (corgetter)",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -2028,9 +2027,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 170,
-	"navn": "sukkerærter",
+	"navn": "Sukkerærter",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -2040,9 +2039,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 171,
-	"navn": "svampe, f.eks. champignon",
+	"navn": "Svampe, f.eks. champignon",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2052,9 +2051,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 172,
-	"navn": "sød kartoffel",
+	"navn": "Sød kartoffel",
 	"begraensningtekst": "(maks 70 g pr portion)",
 	"begraensning": 80,
 	"fruktose": null,
@@ -2064,9 +2063,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 173,
-	"navn": "sølvbede",
+	"navn": "Sølvbede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2076,9 +2075,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 174,
-	"navn": "taro",
+	"navn": "Taro",
 	"begraensningtekst": "(maks 82 g pr portion)",
 	"begraensning": 82,
 	"fruktose": null,
@@ -2088,9 +2087,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 175,
-	"navn": "tomat, alle slags",
+	"navn": "Tomat, alle slags",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2100,9 +2099,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 176,
-	"navn": "tomat, dåse",
+	"navn": "Tomat, dåse",
 	"begraensningtekst": "(maks 180 g pr portion)",
 	"begraensning": 180,
 	"fruktose": true,
@@ -2112,9 +2111,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 177,
-	"navn": "vandkastanje",
+	"navn": "Vandkastanje",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2124,9 +2123,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 178,
-	"navn": "yam",
+	"navn": "Yam",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2136,9 +2135,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "grøntsager",
+	"kategori": "Grøntsager",
 	"id": 179,
-	"navn": "ærter, grønne",
+	"navn": "Ærter, grønne",
 	"begraensningtekst": "(maks 18 g pr portion)",
 	"begraensning": 18,
 	"fruktose": null,
@@ -2148,9 +2147,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 180,
-	"navn": "allehånde",
+	"navn": "Allehånde",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2160,9 +2159,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 181,
-	"navn": "asafoetida (dyvelsdræk)",
+	"navn": "Asafoetida (dyvelsdræk)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2172,9 +2171,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 182,
-	"navn": "barbecue",
+	"navn": "Barbecue",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2184,9 +2183,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 183,
-	"navn": "basilikum",
+	"navn": "Basilikum",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2196,9 +2195,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 184,
-	"navn": "bukkehornsblade",
+	"navn": "Bukkehornsblade",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2208,9 +2207,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 185,
-	"navn": "bukkehornsfrø",
+	"navn": "Bukkehornsfrø",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2220,9 +2219,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 186,
-	"navn": "citrongræs",
+	"navn": "Citrongræs",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2232,9 +2231,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 187,
-	"navn": "estragon",
+	"navn": "Estragon",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2244,9 +2243,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 188,
-	"navn": "fennikelfrø",
+	"navn": "Fennikelfrø",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2256,9 +2255,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 189,
-	"navn": "five spice",
+	"navn": "Five spice",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2268,9 +2267,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 190,
-	"navn": "goraka",
+	"navn": "Goraka",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2280,9 +2279,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 191,
-	"navn": "gurkemeje",
+	"navn": "Gurkemeje",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2292,9 +2291,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 192,
-	"navn": "ingefær",
+	"navn": "Ingefær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2304,9 +2303,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 193,
-	"navn": "kanel",
+	"navn": "Kanel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2316,9 +2315,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 194,
-	"navn": "kapers, eddikelage",
+	"navn": "Kapers, eddikelage",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2328,9 +2327,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 195,
-	"navn": "kapers, saltlage",
+	"navn": "Kapers, saltlage",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2340,9 +2339,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 196,
-	"navn": "kardemomme",
+	"navn": "Kardemomme",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2352,9 +2351,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 197,
-	"navn": "karry",
+	"navn": "Karry",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2364,9 +2363,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 198,
-	"navn": "karryblade",
+	"navn": "Karryblade",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2376,9 +2375,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 199,
-	"navn": "karse",
+	"navn": "Karse",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2388,9 +2387,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 200,
-	"navn": "kommen, stødt",
+	"navn": "Kommen, stødt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2400,9 +2399,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 201,
-	"navn": "koriander, frisk",
+	"navn": "Koriander, frisk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2412,9 +2411,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 202,
-	"navn": "koriander, frø",
+	"navn": "Koriander, frø",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2424,9 +2423,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 203,
-	"navn": "muskatnød",
+	"navn": "Muskatnød",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2436,9 +2435,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 204,
-	"navn": "nelliker, hele",
+	"navn": "Nelliker, hele",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2448,9 +2447,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 205,
-	"navn": "paprika",
+	"navn": "Paprika",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2460,9 +2459,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 206,
-	"navn": "peber",
+	"navn": "Peber",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2472,9 +2471,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 207,
-	"navn": "persille",
+	"navn": "Persille",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2484,9 +2483,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 208,
-	"navn": "purløg",
+	"navn": "Purløg",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2496,9 +2495,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 209,
-	"navn": "rosmarin",
+	"navn": "Rosmarin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2508,9 +2507,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 210,
-	"navn": "safran",
+	"navn": "Safran",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2520,9 +2519,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 211,
-	"navn": "salt",
+	"navn": "Salt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2532,9 +2531,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 212,
-	"navn": "sennepsfrø",
+	"navn": "Sennepsfrø",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2544,9 +2543,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 213,
-	"navn": "soltørret tomat",
+	"navn": "Soltørret tomat",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": true,
@@ -2556,9 +2555,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 214,
-	"navn": "spiskommen",
+	"navn": "Spiskommen",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2568,9 +2567,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 215,
-	"navn": "stjerneanis",
+	"navn": "Stjerneanis",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2580,9 +2579,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 216,
-	"navn": "timian",
+	"navn": "Timian",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2592,9 +2591,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "krydderurter og krydderier",
+	"kategori": "Krydderurter og krydderier",
 	"id": 217,
-	"navn": "wasabi",
+	"navn": "Wasabi",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2604,9 +2603,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 218,
-	"navn": "balsamico",
+	"navn": "Balsamico",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": true,
@@ -2616,9 +2615,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 219,
-	"navn": "barbecuesauce",
+	"navn": "Barbecuesauce",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2628,9 +2627,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 220,
-	"navn": "chilisauce, sød",
+	"navn": "Chilisauce, sød",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2640,9 +2639,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 221,
-	"navn": "chutney",
+	"navn": "Chutney",
 	"begraensningtekst": "(maks 25 g pr portion)",
 	"begraensning": 25,
 	"fruktose": null,
@@ -2652,9 +2651,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 222,
-	"navn": "fiskesovs",
+	"navn": "Fiskesovs",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2664,9 +2663,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 223,
-	"navn": "hummus",
+	"navn": "Hummus",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2676,9 +2675,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 224,
-	"navn": "ketchup, uden løg",
+	"navn": "Ketchup, uden løg",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2688,9 +2687,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 225,
-	"navn": "kvædepasta (quince)",
+	"navn": "Kvædepasta (quince)",
 	"begraensningtekst": "(maks 27 g pr portion)",
 	"begraensning": 27,
 	"fruktose": null,
@@ -2700,9 +2699,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 226,
-	"navn": "mangochutney",
+	"navn": "Mangochutney",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -2712,9 +2711,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 227,
-	"navn": "mayonnaise",
+	"navn": "Mayonnaise",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2724,9 +2723,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 228,
-	"navn": "misopasta",
+	"navn": "Misopasta",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2736,9 +2735,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 229,
-	"navn": "olie, alle typer",
+	"navn": "Olie, alle typer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2748,9 +2747,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 230,
-	"navn": "oliventapenade",
+	"navn": "Oliventapenade",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2760,9 +2759,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 231,
-	"navn": "pesto, alle typer",
+	"navn": "Pesto, alle typer",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -2772,9 +2771,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 232,
-	"navn": "pickles",
+	"navn": "Pickles",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -2784,9 +2783,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 233,
-	"navn": "rejepasta",
+	"navn": "Rejepasta",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2796,9 +2795,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 234,
-	"navn": "remoulade",
+	"navn": "Remoulade",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2808,9 +2807,9 @@
 	"mannitol": true,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 235,
-	"navn": "risvinseddike",
+	"navn": "Risvinseddike",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2820,9 +2819,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 236,
-	"navn": "sennep",
+	"navn": "Sennep",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2832,9 +2831,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 237,
-	"navn": "sojasovs",
+	"navn": "Sojasovs",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2844,9 +2843,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 238,
-	"navn": "tahin (sesampasta)",
+	"navn": "Tahin (sesampasta)",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -2856,9 +2855,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 239,
-	"navn": "tamarindpasta",
+	"navn": "Tamarindpasta",
 	"begraensningtekst": "(maks 33 g pr portion",
 	"begraensning": 33,
 	"fruktose": null,
@@ -2868,9 +2867,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 240,
-	"navn": "tzatziki",
+	"navn": "Tzatziki",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -2880,9 +2879,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 241,
-	"navn": "worcestershire-sauce",
+	"navn": "Worcestershire-sauce",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2892,9 +2891,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "sauce, dip og dressing",
+	"kategori": "Sauce, dip og dressing",
 	"id": 242,
-	"navn": "østerssovs",
+	"navn": "Østerssovs",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -2904,9 +2903,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 243,
-	"navn": "chips, majs (tortilla-chips)",
+	"navn": "Chips, majs (tortilla-chips)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2916,9 +2915,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 244,
-	"navn": "chokolade, hvid",
+	"navn": "Chokolade, hvid",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -2928,9 +2927,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 245,
-	"navn": "chokolade, mælk",
+	"navn": "Chokolade, mælk",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -2940,9 +2939,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 246,
-	"navn": "chokolade, mørk",
+	"navn": "Chokolade, mørk",
 	"begraensningtekst": "(maks 90 g pr portion)",
 	"begraensning": 90,
 	"fruktose": null,
@@ -2952,9 +2951,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 247,
-	"navn": "kartoffelchips, saltede",
+	"navn": "Kartoffelchips, saltede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2964,9 +2963,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 248,
-	"navn": "kiks, f.eks. hvedekiks, chokoladekiks",
+	"navn": "Kiks, f.eks. hvedekiks, chokoladekiks",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -2976,9 +2975,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 249,
-	"navn": "majsgaletter",
+	"navn": "Majsgaletter",
 	"begraensningtekst": "(maks 24 g pr portion)",
 	"begraensning": 24,
 	"fruktose": null,
@@ -2988,9 +2987,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 250,
-	"navn": "mariekiks",
+	"navn": "Mariekiks",
 	"begraensningtekst": "(maks 20 g pr portion = 2 kiks)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -3000,9 +2999,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 251,
-	"navn": "myslibar",
+	"navn": "Myslibar",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3012,9 +3011,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 252,
-	"navn": "popcorn",
+	"navn": "Popcorn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3024,9 +3023,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 253,
-	"navn": "riskiks",
+	"navn": "Riskiks",
 	"begraensningtekst": "(maks 28 g pr portion)",
 	"begraensning": 28,
 	"fruktose": null,
@@ -3036,9 +3035,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 254,
-	"navn": "saltstang",
+	"navn": "Saltstang",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -3048,9 +3047,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "snacks og kiks",
+	"kategori": "Snacks og kiks",
 	"id": 255,
-	"navn": "småkage",
+	"navn": "Småkage",
 	"begraensningtekst": "(maks 26 g pr portion = 2 småkager)",
 	"begraensning": 26,
 	"fruktose": null,
@@ -3060,9 +3059,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 256,
-	"navn": "abrikos, tørret",
+	"navn": "Abrikos, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3072,9 +3071,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 257,
-	"navn": "ananas, tørret",
+	"navn": "Ananas, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3084,9 +3083,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 258,
-	"navn": "banan, tørret",
+	"navn": "Banan, tørret",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -3096,9 +3095,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 259,
-	"navn": "daddel, tørret",
+	"navn": "Daddel, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3108,9 +3107,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 260,
-	"navn": "figen, tørret",
+	"navn": "Figen, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3120,9 +3119,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 261,
-	"navn": "mango, tørret",
+	"navn": "Mango, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3132,9 +3131,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 262,
-	"navn": "papaja, tørret",
+	"navn": "Papaja, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3144,9 +3143,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 263,
-	"navn": "pære, tørret",
+	"navn": "Pære, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3156,9 +3155,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 264,
-	"navn": "rosin",
+	"navn": "Rosin",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -3168,9 +3167,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 265,
-	"navn": "sveske",
+	"navn": "Sveske",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3180,9 +3179,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 266,
-	"navn": "tranebær",
+	"navn": "Tranebær",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -3192,9 +3191,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "tørret frugt",
+	"kategori": "Tørret frugt",
 	"id": 267,
-	"navn": "æble, tørret",
+	"navn": "Æble, tørret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3204,9 +3203,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 268,
-	"navn": "birkesfrø, blå",
+	"navn": "Birkesfrø, blå",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3216,9 +3215,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 269,
-	"navn": "birkesfrø, hvid",
+	"navn": "Birkesfrø, hvid",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3228,9 +3227,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 270,
-	"navn": "chiafrø",
+	"navn": "Chiafrø",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -3240,9 +3239,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 271,
-	"navn": "græskarkerner",
+	"navn": "Græskarkerner",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3252,9 +3251,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 272,
-	"navn": "hasselnød",
+	"navn": "Hasselnød",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -3264,9 +3263,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 273,
-	"navn": "hørfrø",
+	"navn": "Hørfrø",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3276,9 +3275,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 274,
-	"navn": "kastanje",
+	"navn": "Kastanje",
 	"begraensningtekst": "(maks 294 g pr portion)",
 	"begraensning": 294,
 	"fruktose": null,
@@ -3288,9 +3287,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 275,
-	"navn": "kokos, tørret",
+	"navn": "Kokos, tørret",
 	"begraensningtekst": "(maks 18 g pr portion)",
 	"begraensning": 18,
 	"fruktose": null,
@@ -3300,9 +3299,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 276,
-	"navn": "macademia",
+	"navn": "Macademia",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3312,9 +3311,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 277,
-	"navn": "mandel",
+	"navn": "Mandel",
 	"begraensningtekst": "(maks 12 g pr portion)",
 	"begraensning": 12,
 	"fruktose": null,
@@ -3324,9 +3323,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 278,
-	"navn": "paranød",
+	"navn": "Paranød",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3336,9 +3335,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 279,
-	"navn": "peanuts (jordnødder)",
+	"navn": "Peanuts (jordnødder)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3348,9 +3347,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 280,
-	"navn": "pecan",
+	"navn": "Pecan",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3360,9 +3359,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 281,
-	"navn": "pinjekerner",
+	"navn": "Pinjekerner",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3372,9 +3371,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 282,
-	"navn": "sesamfrø",
+	"navn": "Sesamfrø",
 	"begraensningtekst": "(maks 66 g pr portion)",
 	"begraensning": 66,
 	"fruktose": null,
@@ -3384,9 +3383,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 283,
-	"navn": "solsikkefrø",
+	"navn": "Solsikkefrø",
 	"begraensningtekst": "(maks 70 g pr portion)",
 	"begraensning": 70,
 	"fruktose": null,
@@ -3396,9 +3395,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 284,
-	"navn": "valnødder",
+	"navn": "Valnødder",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3408,9 +3407,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 285,
-	"navn": "vandmelonfrø (egusi)",
+	"navn": "Vandmelonfrø (egusi)",
 	"begraensningtekst": "(maks 36 g pr portion)",
 	"begraensning": 36,
 	"fruktose": null,
@@ -3420,9 +3419,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 286,
-	"navn": "cashewnødder",
+	"navn": "Cashewnødder",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3432,9 +3431,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "nødder og frø",
+	"kategori": "Nødder og frø",
 	"id": 287,
-	"navn": "pistacienødder",
+	"navn": "Pistacienødder",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3444,9 +3443,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 288,
-	"navn": "couscous, ris/majs",
+	"navn": "Couscous, ris/majs",
 	"begraensningtekst": "(maks 51 g pr portion)",
 	"begraensning": 51,
 	"fruktose": null,
@@ -3456,9 +3455,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 289,
-	"navn": "pasta, glutenfri, kogte",
+	"navn": "Pasta, glutenfri, kogte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3468,9 +3467,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 290,
-	"navn": "pasta, hvede, kogte",
+	"navn": "Pasta, hvede, kogte",
 	"begraensningtekst": "(maks 74 g pr portion)",
 	"begraensning": 74,
 	"fruktose": null,
@@ -3480,9 +3479,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 291,
-	"navn": "pasta, spelt, kogte",
+	"navn": "Pasta, spelt, kogte",
 	"begraensningtekst": "(maks 74 g pr portion)",
 	"begraensning": 74,
 	"fruktose": null,
@@ -3492,9 +3491,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 292,
-	"navn": "pasta, quinoa, kogte",
+	"navn": "Pasta, quinoa, kogte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3504,9 +3503,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 293,
-	"navn": "polenta",
+	"navn": "Polenta",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3516,9 +3515,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 294,
-	"navn": "nudler, ris",
+	"navn": "Nudler, ris",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3528,9 +3527,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 295,
-	"navn": "ris, basmati",
+	"navn": "Ris, basmati",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3540,9 +3539,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 296,
-	"navn": "ris, brune",
+	"navn": "Ris, brune",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3552,9 +3551,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 297,
-	"navn": "ris, hvide",
+	"navn": "Ris, hvide",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3564,9 +3563,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 298,
-	"navn": "bulgur",
+	"navn": "Bulgur",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3576,9 +3575,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 299,
-	"navn": "byg, perle",
+	"navn": "Byg, perle",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3588,9 +3587,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 300,
-	"navn": "couscous, hvede",
+	"navn": "Couscous, hvede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3600,9 +3599,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 301,
-	"navn": "gnocci",
+	"navn": "Gnocci",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3612,9 +3611,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 302,
-	"navn": "nudler, hvede",
+	"navn": "Nudler, hvede",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3624,9 +3623,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ris, pasta og nudler",
+	"kategori": "Ris, pasta og nudler",
 	"id": 303,
-	"navn": "pasta, rug, kogte",
+	"navn": "Pasta, rug, kogte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3636,9 +3635,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 304,
-	"navn": "chana, dal (afskallede babykikærter)",
+	"navn": "Chana, dal (afskallede babykikærter)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3648,9 +3647,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 305,
-	"navn": "grønne linser, kogte",
+	"navn": "Grønne linser, kogte",
 	"begraensningtekst": "(maks 25 g pr portion)",
 	"begraensning": 25,
 	"fruktose": null,
@@ -3660,9 +3659,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 306,
-	"navn": "hvide bønner, dåse",
+	"navn": "Hvide bønner, dåse",
 	"begraensningtekst": "(maks 35 g pr portion)",
 	"begraensning": 35,
 	"fruktose": null,
@@ -3672,9 +3671,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 307,
-	"navn": "kikærter, dåse",
+	"navn": "Kikærter, dåse",
 	"begraensningtekst": "(maks 45 g pr portion)",
 	"begraensning": 45,
 	"fruktose": null,
@@ -3684,9 +3683,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 308,
-	"navn": "limabønner, kogte",
+	"navn": "Limabønner, kogte",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -3696,9 +3695,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 309,
-	"navn": "linser, dåse",
+	"navn": "Linser, dåse",
 	"begraensningtekst": "(maks 50 g pr portion)",
 	"begraensning": 50,
 	"fruktose": null,
@@ -3708,9 +3707,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 310,
-	"navn": "mungbønner, kogte",
+	"navn": "Mungbønner, kogte",
 	"begraensningtekst": "(maks 53 g pr portion)",
 	"begraensning": 53,
 	"fruktose": null,
@@ -3720,9 +3719,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 311,
-	"navn": "mungoært (urid dal), kogt",
+	"navn": "Mungoært (urid dal), kogt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3732,9 +3731,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 312,
-	"navn": "røde linser, kogte",
+	"navn": "Røde linser, kogte",
 	"begraensningtekst": "(maks 25 g pr portion)",
 	"begraensning": 25,
 	"fruktose": null,
@@ -3744,9 +3743,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 313,
-	"navn": "sorte bønner, dåse",
+	"navn": "Sorte bønner, dåse",
 	"begraensningtekst": "(maks 52 g pr portion)",
 	"begraensning": 52,
 	"fruktose": null,
@@ -3756,9 +3755,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 314,
-	"navn": "tempeh",
+	"navn": "Tempeh",
 	"begraensningtekst": "(maks 100 g pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -3768,9 +3767,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 315,
-	"navn": "baked beans",
+	"navn": "Baked beans",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3780,9 +3779,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 316,
-	"navn": "borlottibønner",
+	"navn": "Borlottibønner",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3792,9 +3791,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 317,
-	"navn": "falaffel",
+	"navn": "Falaffel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3804,9 +3803,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 318,
-	"navn": "flækærter",
+	"navn": "Flækærter",
 	"begraensningtekst": "(gule ærter)",
 	"begraensning": null,
 	"fruktose": null,
@@ -3816,9 +3815,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 319,
-	"navn": "haricot-bønner, kogte",
+	"navn": "Haricot-bønner, kogte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3828,9 +3827,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 320,
-	"navn": "hestebønner",
+	"navn": "Hestebønner",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -3840,9 +3839,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 321,
-	"navn": "kidneybeans",
+	"navn": "Kidneybeans",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3852,9 +3851,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 322,
-	"navn": "sojabønner (edamame)",
+	"navn": "Sojabønner (edamame)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3864,9 +3863,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "bønner og linser",
+	"kategori": "Bønner og linser",
 	"id": 323,
-	"navn": "sorte bønner, kogte",
+	"navn": "Sorte bønner, kogte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3876,9 +3875,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 324,
-	"navn": "ahornsirup",
+	"navn": "Ahornsirup",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3888,9 +3887,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 325,
-	"navn": "brun farin",
+	"navn": "Brun farin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3900,9 +3899,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 326,
-	"navn": "jordnøddesmør (peanutbutter)",
+	"navn": "Jordnøddesmør (peanutbutter)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3912,9 +3911,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 327,
-	"navn": "kakaopulver",
+	"navn": "Kakaopulver",
 	"begraensningtekst": "(maks 8 g pr portion)",
 	"begraensning": 8,
 	"fruktose": null,
@@ -3924,9 +3923,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 328,
-	"navn": "kokosmælk",
+	"navn": "Kokosmælk",
 	"begraensningtekst": "(maks 150 ml pr portion)",
 	"begraensning": 150,
 	"fruktose": null,
@@ -3936,9 +3935,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 329,
-	"navn": "marmelade (kun af tilladte frugter)",
+	"navn": "Marmelade (kun af tilladte frugter)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3948,9 +3947,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 330,
-	"navn": "nøddepålæg (fx nutella eller nocciolata)",
+	"navn": "Nøddepålæg (fx nutella eller nocciolata)",
 	"begraensningtekst": "(maks 15 g pr portion)",
 	"begraensning": 15,
 	"fruktose": null,
@@ -3960,9 +3959,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 331,
-	"navn": "palmesukker",
+	"navn": "Palmesukker",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3972,9 +3971,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 332,
-	"navn": "quorn",
+	"navn": "Quorn",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3984,9 +3983,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 333,
-	"navn": "sirup, lys og mørk",
+	"navn": "Sirup, lys og mørk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -3996,9 +3995,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 334,
-	"navn": "sirup, rismalt",
+	"navn": "Sirup, rismalt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4008,9 +4007,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 335,
-	"navn": "stevia",
+	"navn": "Stevia",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4020,9 +4019,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 336,
-	"navn": "sukker, rør- og roe-",
+	"navn": "Sukker, rør- og roe-",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4032,9 +4031,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 337,
-	"navn": "tang (nori)",
+	"navn": "Tang (nori)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4044,9 +4043,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 338,
-	"navn": "tofu",
+	"navn": "Tofu",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4056,9 +4055,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 339,
-	"navn": "agavesirup, lys",
+	"navn": "Agavesirup, lys",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4068,9 +4067,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 340,
-	"navn": "agavesirup, mørk",
+	"navn": "Agavesirup, mørk",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4080,9 +4079,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 341,
-	"navn": "frugtstænger",
+	"navn": "Frugtstænger",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4092,9 +4091,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 342,
-	"navn": "honning",
+	"navn": "Honning",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4104,9 +4103,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 343,
-	"navn": "marmelade (ikke-tilladte frugter)",
+	"navn": "Marmelade (ikke-tilladte frugter)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4116,9 +4115,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "diverse",
+	"kategori": "Diverse",
 	"id": 344,
-	"navn": "marmelade, solbær",
+	"navn": "Marmelade, solbær",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4128,9 +4127,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 345,
-	"navn": "danskvand",
+	"navn": "Danskvand",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4140,9 +4139,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 346,
-	"navn": "gin",
+	"navn": "Gin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4152,9 +4151,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 347,
-	"navn": "grøntsagsjuice",
+	"navn": "Grøntsagsjuice",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4164,9 +4163,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 348,
-	"navn": "hampedrik",
+	"navn": "Hampedrik",
 	"begraensningtekst": "(maks 300 ml pr portion)",
 	"begraensning": 300,
 	"fruktose": null,
@@ -4176,9 +4175,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 349,
-	"navn": "havredrik",
+	"navn": "Havredrik",
 	"begraensningtekst": "(maks 40 ml pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -4188,9 +4187,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 350,
-	"navn": "hvidvin",
+	"navn": "Hvidvin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4200,9 +4199,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 351,
-	"navn": "juice, appelsin",
+	"navn": "Juice, appelsin",
 	"begraensningtekst": "(maks 187 ml pr portion)",
 	"begraensning": 187,
 	"fruktose": true,
@@ -4212,9 +4211,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 352,
-	"navn": "kaffe",
+	"navn": "Kaffe",
 	"begraensningtekst": "(maks 2-3 kopper pr dag)",
 	"begraensning": null,
 	"fruktose": null,
@@ -4224,9 +4223,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 353,
-	"navn": "kokosnøddevand",
+	"navn": "Kokosnøddevand",
 	"begraensningtekst": "(maks 100 ml pr portion)",
 	"begraensning": 100,
 	"fruktose": null,
@@ -4236,9 +4235,9 @@
 	"mannitol": null,
 	"sorbitol": true
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 354,
-	"navn": "mandeldrik",
+	"navn": "Mandeldrik",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4248,9 +4247,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 355,
-	"navn": "rødvin",
+	"navn": "Rødvin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4260,9 +4259,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 356,
-	"navn": "saftevand (light)",
+	"navn": "Saftevand (light)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4272,9 +4271,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 357,
-	"navn": "sodavand (uden frugtsaft)",
+	"navn": "Sodavand (uden frugtsaft)",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4284,9 +4283,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 358,
-	"navn": "te, grøn, sort og hvid",
+	"navn": "Te, grøn, sort og hvid",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4296,9 +4295,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 359,
-	"navn": "te, pebermynte",
+	"navn": "Te, pebermynte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4308,9 +4307,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 360,
-	"navn": "tranebærjuice",
+	"navn": "Tranebærjuice",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4320,9 +4319,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 361,
-	"navn": "vand",
+	"navn": "Vand",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4332,9 +4331,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 362,
-	"navn": "vin, mousserende",
+	"navn": "Vin, mousserende",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4344,9 +4343,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 363,
-	"navn": "vodka",
+	"navn": "Vodka",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4356,9 +4355,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 364,
-	"navn": "whisky",
+	"navn": "Whisky",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4368,9 +4367,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 365,
-	"navn": "øl",
+	"navn": "Øl",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4380,9 +4379,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 366,
-	"navn": "chai-te med chikorie",
+	"navn": "Chai-te med chikorie",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4392,9 +4391,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 367,
-	"navn": "cider",
+	"navn": "Cider",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4404,9 +4403,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 368,
-	"navn": "dessertvin",
+	"navn": "Dessertvin",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4416,9 +4415,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 369,
-	"navn": "juice, frugt og æble",
+	"navn": "Juice, frugt og æble",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4428,9 +4427,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 370,
-	"navn": "risdrik",
+	"navn": "Risdrik",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4440,9 +4439,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 371,
-	"navn": "rom",
+	"navn": "Rom",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4452,9 +4451,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 372,
-	"navn": "sojadrik",
+	"navn": "Sojadrik",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4464,9 +4463,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 373,
-	"navn": "te, fennikel",
+	"navn": "Te, fennikel",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4476,9 +4475,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 374,
-	"navn": "te, kamille",
+	"navn": "Te, kamille",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4488,9 +4487,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 375,
-	"navn": "te, mælkebøtte",
+	"navn": "Te, mælkebøtte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4500,9 +4499,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 376,
-	"navn": "te, oolong",
+	"navn": "Te, oolong",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4512,9 +4511,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 377,
-	"navn": "te, urte",
+	"navn": "Te, urte",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4524,9 +4523,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 378,
-	"navn": "tropefrugtjuice",
+	"navn": "Tropefrugtjuice",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4536,9 +4535,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "drikkevarer",
+	"kategori": "Drikkevarer",
 	"id": 379,
-	"navn": "æblejuice",
+	"navn": "Æblejuice",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": true,
@@ -4548,9 +4547,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 380,
-	"navn": "camembert",
+	"navn": "Camembert",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4560,9 +4559,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 381,
-	"navn": "cheddar",
+	"navn": "Cheddar",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4572,9 +4571,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 382,
-	"navn": "creme fraiche, laktosefri",
+	"navn": "Creme fraiche, laktosefri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4584,9 +4583,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 383,
-	"navn": "emmentaler",
+	"navn": "Emmentaler",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4596,9 +4595,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 384,
-	"navn": "feta",
+	"navn": "Feta",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4608,9 +4607,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 385,
-	"navn": "fløde, laktosefri",
+	"navn": "Fløde, laktosefri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4620,9 +4619,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 386,
-	"navn": "friskost",
+	"navn": "Friskost",
 	"begraensningtekst": "(maks 20 g pr portion)",
 	"begraensning": 20,
 	"fruktose": null,
@@ -4632,9 +4631,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 387,
-	"navn": "gedeost",
+	"navn": "Gedeost",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4644,9 +4643,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 388,
-	"navn": "haloumi",
+	"navn": "Haloumi",
 	"begraensningtekst": "(maks 50 g pr portion)",
 	"begraensning": 50,
 	"fruktose": null,
@@ -4656,9 +4655,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 389,
-	"navn": "hytteost",
+	"navn": "Hytteost",
 	"begraensningtekst": "(maks 35 g pr portion)",
 	"begraensning": 35,
 	"fruktose": null,
@@ -4668,9 +4667,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 390,
-	"navn": "mozzarella",
+	"navn": "Mozzarella",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4680,9 +4679,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 391,
-	"navn": "mælk, laktosefri",
+	"navn": "Mælk, laktosefri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4692,9 +4691,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 392,
-	"navn": "pecorino",
+	"navn": "Pecorino",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4704,9 +4703,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 393,
-	"navn": "ricotta",
+	"navn": "Ricotta",
 	"begraensningtekst": "(maks 40 g pr portion)",
 	"begraensning": 40,
 	"fruktose": null,
@@ -4716,9 +4715,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 394,
-	"navn": "skimmeloste",
+	"navn": "Skimmeloste",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4728,9 +4727,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 395,
-	"navn": "skæreoste",
+	"navn": "Skæreoste",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4740,9 +4739,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 396,
-	"navn": "yoghurt, laktosefri",
+	"navn": "Yoghurt, laktosefri",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4752,9 +4751,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 397,
-	"navn": "budding",
+	"navn": "Budding",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4764,9 +4763,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 398,
-	"navn": "creme fraiche",
+	"navn": "Creme fraiche",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4776,9 +4775,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 399,
-	"navn": "fløde",
+	"navn": "Fløde",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4788,9 +4787,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 400,
-	"navn": "fromage",
+	"navn": "Fromage",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4800,9 +4799,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 401,
-	"navn": "is",
+	"navn": "Is",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4812,9 +4811,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 402,
-	"navn": "myseost",
+	"navn": "Myseost",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4824,9 +4823,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 403,
-	"navn": "mælk, kondenseret",
+	"navn": "Mælk, kondenseret",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4836,9 +4835,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 404,
-	"navn": "mælk, alle slags",
+	"navn": "Mælk, alle slags",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4848,9 +4847,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 405,
-	"navn": "piskefløde",
+	"navn": "Piskefløde",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4860,9 +4859,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 406,
-	"navn": "skyr",
+	"navn": "Skyr",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4872,9 +4871,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "ost og mælkeprodukter",
+	"kategori": "Ost og mælkeprodukter",
 	"id": 407,
-	"navn": "syrnede mælkeprodukter fx yoghurt, a-38",
+	"navn": "Syrnede mælkeprodukter fx yoghurt, a-38",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4884,9 +4883,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "fedtstoffer og olier",
+	"kategori": "Fedtstoffer og olier",
 	"id": 408,
-	"navn": "margarine",
+	"navn": "Margarine",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4896,9 +4895,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "fedtstoffer og olier",
+	"kategori": "Fedtstoffer og olier",
 	"id": 409,
-	"navn": "olie, alle typer",
+	"navn": "Olie, alle typer",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4908,9 +4907,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "fedtstoffer og olier",
+	"kategori": "Fedtstoffer og olier",
 	"id": 410,
-	"navn": "oliemargarine",
+	"navn": "Oliemargarine",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4920,9 +4919,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "fedtstoffer og olier",
+	"kategori": "Fedtstoffer og olier",
 	"id": 411,
-	"navn": "smør",
+	"navn": "Smør",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4932,9 +4931,9 @@
 	"mannitol": null,
 	"sorbitol": null
 }, {
-	"kategori": "fedtstoffer og olier",
+	"kategori": "Fedtstoffer og olier",
 	"id": 412,
-	"navn": "smørbart blandingsprodukt",
+	"navn": "Smørbart blandingsprodukt",
 	"begraensningtekst": null,
 	"begraensning": null,
 	"fruktose": null,
@@ -4943,4 +4942,4 @@
 	"galaktaner": null,
 	"mannitol": null,
 	"sorbitol": null
-}]}
+}]
